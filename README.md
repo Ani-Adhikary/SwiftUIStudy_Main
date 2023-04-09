@@ -7,3 +7,7 @@
 <h3> Day 1 Swift UI </h3>
 
 https://www.hackingwithswift.com/100/swiftui/16
+
+<h3> macOS Projects </h3>
+
+https://github.com/kodecocodes/mos-materials/tree/editions/1.0
