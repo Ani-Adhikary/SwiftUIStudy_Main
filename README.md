@@ -1,6 +1,6 @@
 # SwiftUIStudy
 
-<h1> Day 32 of struggle - Feb 10, 23 </h1>
+<h2> Feb 10, 23 </h2>
 
 <h2> Project 1, part one </h2>
 
@@ -11,3 +11,5 @@ https://www.hackingwithswift.com/100/swiftui/16
 <h3> macOS Projects </h3>
 
 https://github.com/kodecocodes/mos-materials/tree/editions/1.0
+
+<h2> Combine </h2>
