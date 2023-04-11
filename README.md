@@ -15,3 +15,5 @@ https://github.com/kodecocodes/mos-materials/tree/editions/1.0
 <h2> Combine </h2>
 
 https://betterprogramming.pub/replace-delegation-with-combine-in-swift-5-e4c193655e7b
+
+https://frzi.medium.com/using-combine-instead-of-delegates-or-passing-through-a-different-way-of-thinking-ea376849db14
