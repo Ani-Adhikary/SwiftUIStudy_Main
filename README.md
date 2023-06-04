@@ -17,3 +17,7 @@ https://github.com/kodecocodes/mos-materials/tree/editions/1.0
 https://betterprogramming.pub/replace-delegation-with-combine-in-swift-5-e4c193655e7b
 
 https://frzi.medium.com/using-combine-instead-of-delegates-or-passing-through-a-different-way-of-thinking-ea376849db14
+
+<h2> Custom Fonts </h2>
+
+https://gist.github.com/tadija/cb4ec0cbf0a89886d488d1d8b595d0e9
