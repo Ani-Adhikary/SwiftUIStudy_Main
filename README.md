@@ -21,3 +21,6 @@ https://frzi.medium.com/using-combine-instead-of-delegates-or-passing-through-a-
 <h2> Custom Fonts </h2>
 
 https://gist.github.com/tadija/cb4ec0cbf0a89886d488d1d8b595d0e9
+
+<h2> In App Purchase </h2>
+https://adapty.io/blog/in-app-purchase-tutorial-for-ios/
