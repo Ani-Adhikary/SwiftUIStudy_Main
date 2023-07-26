@@ -8,6 +8,12 @@
 
 https://www.hackingwithswift.com/100/swiftui/16
 
+<h3>Other Repos</h3>
+
+https://github.com/Ani-Adhikary/SwiftUI-iOS
+
+https://github.com/Ani-Adhikary/SwiftUIDemos
+
 <h2> macOS Projects </h2>
 
 https://github.com/kodecocodes/mos-materials/tree/editions/1.0
