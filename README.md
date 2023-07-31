@@ -28,5 +28,8 @@ https://frzi.medium.com/using-combine-instead-of-delegates-or-passing-through-a-
 
 https://gist.github.com/tadija/cb4ec0cbf0a89886d488d1d8b595d0e9
 
-<h2> In App Purchase </h2>
-https://adapty.io/blog/in-app-purchase-tutorial-for-ios/
+<h2>Redux</h2>
+
+https://gorillalogic.com/blog/mobile-app-architecture-simple-scalable-redux-based/
+
+
