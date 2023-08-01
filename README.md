@@ -32,4 +32,10 @@ https://gist.github.com/tadija/cb4ec0cbf0a89886d488d1d8b595d0e9
 
 https://gorillalogic.com/blog/mobile-app-architecture-simple-scalable-redux-based/
 
+<h2>VIPER</h2>
+
+https://www.kodeco.com/8440907-getting-started-with-the-viper-architecture-pattern
+
+https://betterprogramming.pub/how-to-implement-viper-architecture-in-your-ios-app-rest-api-and-kingfisher-f494a0891c43
+
 
